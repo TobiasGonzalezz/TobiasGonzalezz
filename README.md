@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Tobias Gonzalez</h1>
 <h3 align="center">A passionate Full Stack Developer from Argentina</h3>
 
