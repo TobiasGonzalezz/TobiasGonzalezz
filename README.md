@@ -3,7 +3,7 @@
 
 ---
 
-- 🔭 I’m currently working on: [Static page with pure css and html](https://alpalah.netlify.app/sections/menu.html)
+- 🔭 I’m currently working on: [FullStack project with React, MongoDB and Node.Js](https://github.com/TobiasGonzalezz/Hiring-Code)
 
 - 🌱 I’m currently learning: **Deno, TypeScript, React Native, Angular, Jest, Mocha, Chai, Redux, PostgreSQL, Socket.io.**
 
