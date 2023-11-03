@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on: [FullStack project with React, MongoDB and Node.Js](https://github.com/TobiasGonzalezz/Hiring-Code)
 
-- 🌱 I’m currently learning: **Deno, TypeScript, React Native, Angular, Jest, Mocha, Chai, Redux, PostgreSQL, Socket.io.**
+- 🌱 I’m currently learning: **Python, Django, TypeScript, React Native, Angular, Jest, Redux, PostgreSQL, Socket.io.**
 
 - 📫 How to reach me: **tobygon988@gmail.com**
 
